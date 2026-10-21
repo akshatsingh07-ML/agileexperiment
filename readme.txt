@@ -1,4 +1,3 @@
-My name is Akshat.
-I am 19 yo.
+My name is Akshat. 
 I am a CSE AIML sophomore.
 I like playing chess.
